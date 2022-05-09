@@ -25,6 +25,7 @@ I'm Sidinei Pereira a passionate self-taught in Database and Automation
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Rundeck](https://img.shields.io/badge/Rundeck-FCC624?style=for-the-badge&logo=rundeck&logoColor=black)
 
 - Promethues
 - Golang
